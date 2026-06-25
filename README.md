@@ -1,5 +1,7 @@
 # Genome-wide methylation reveals epigenetic basis of ESRD
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 The following sections provide details for the analyses performed in:
 
 Genome-wide DNA methylation analysis revealed epigenetic mechanism underlying end stage renal disease
@@ -23,3 +25,7 @@ This directory contains all scripts used in the data analysis for the study of e
 
 4. **Gene Annotation and Enrichment Analyses**  
    Scripts to annotate CpG loci to functional genes and perform functional enrichment analysis (e.g., GO, KEGG pathways) to explore the biological processes implicated by ESRD-related methylation changes.
+
+# License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
